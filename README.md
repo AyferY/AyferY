@@ -1,4 +1,4 @@
-#<center>Hi! I'm Ayfer</center>
+# <b> Hi! I'm Ayfer </b>
 
 # 💫 About Me:
 👩‍💻I'm currently working RPA Developer.<br>🌱I am currently a Full-Stack Development student at Up School. I also use related content such as API, Signal R, Selenium, React.<br>🤝How to reach me :  ayferyildirim3482@gmail.com<br>
